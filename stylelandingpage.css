@@ -1,0 +1,39 @@
+.body{ 
+background-color: rgb(255, 255, 255);
+ } 
+.judul{
+text-align: center;
+font-size: large;
+font-family: impact, Haettenschweller,'Arial Narrow Bold, sans-serif;
+background-color: orange;
+border-radius: 20px;
+padding: 20px;
+font-weight: 100px;
+box-shadow: 10px 10px 10px;
+}
+.kotak1{ 
+background-color:white; 
+width: 500px; 
+height: 300px; 
+margin-left: 10px; 
+margin-right: auto; 
+margin-top: 40px; 
+border-radius: 10px; 
+box-shadow: 5px 5px 5px 5px; float:left; 
+padding: 10px; 
+font-size: 20px; 
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+} 
+.kotak2{ 
+background-color:white; 
+width: 500px; 
+height: 300px; 
+margin-left: 10px; 
+margin-right: auto; 
+margin-top: 40px; 
+border-radius: 10px; 
+box-shadow: 5px 5px 5px 5px; float: left; 
+padding: 10px; 
+font-size: 20px; 
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+} 
